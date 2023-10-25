@@ -1,0 +1,6 @@
+name: ube-scrape
+dependencies:
+  - python
+  - requests
+  - pandas
+  - selenium
